@@ -1,10 +1,8 @@
-Edits:
+Generated new application using the below command.
+```ng new ng-e-commerce --directory=./ --style=scss --prefix=roar --standalone=false```
 
-Geneated new application using the below command.
-```
-ng new ng-e-commerce --directory=./ --style=scss --prefix=roar
-```
-
+Add Material UI
+```ng add @angular/material```
 
 # NgECommerce
 
